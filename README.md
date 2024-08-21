@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software using database analysis for trade facilitation
 - 📫 How to reach me sethbeveragephone@gmail.com    5752189529
 - 😄 Pronouns: me/him
-- ⚡ Fun fact: my last name is really Beveragge...like a drink
+- ⚡ Fun fact: my last name is really Beverage...like a drink
 
 <!---
 scbeverage/scbeverage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
